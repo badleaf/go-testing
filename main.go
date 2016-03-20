@@ -4,6 +4,12 @@ import (
 	"fmt"
 )
 
+var (
+	a int    = 1
+	b string = "path/root"
+	c string = "structure"
+)
+
 func main() {
-	fmt.Print("Hello")
+
 }
